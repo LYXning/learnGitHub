@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cstring>
 #include <stack>
-#include <queue>
-#include <iomanip>
 #include <cmath>
 #include <algorithm>
 #include <vector>
@@ -10,6 +8,6 @@
 using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
     return 0;
 }
